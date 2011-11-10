@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<project version="0.15.1" title="Doc API Site1">
+  <file path="dummy.php" hash="10c4856f5d7423835d034ef5566f0fc8" package="Default">
+    <parse_markers>
+      <error line="1">No DocBlock was found for File dummy.php</error>
+    </parse_markers>
+  </file>
+  <file path="index.php" hash="be2c5224085b106a7b5d052472734b96" package="Default">
+    <parse_markers>
+      <error line="1">No DocBlock was found for File index.php</error>
+    </parse_markers>
+  </file>
+  <package name="Default"/>
+  <marker>todo</marker>
+  <marker>fixme</marker>
+</project>
