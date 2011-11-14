@@ -1,3 +1,0 @@
-<?php
-	//Salut
-	echo('salut');
