@@ -1,0 +1,3 @@
+<?php
+	//Salut
+	echo('salut');
